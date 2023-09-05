@@ -1,2 +1,2 @@
-# odes-research-pytorch
+# odes-exp-pytorch
 Pytorch Research Project
